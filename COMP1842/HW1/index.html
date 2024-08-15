@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphic Card</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to CSS file -->
+</head>
+<body>
+    <div class="nav-bar"></div> <!-- Navigation bar -->
+    <div id="app"> <!-- Main Vue app container -->
+        <div class="cart"> <!-- Cart information -->
+            <p>Cart ({{ cart.length }})</p>
+        </div>
+        <!-- Product components with event binding -->
+        <product @add-to-cart="updateCart"></product>
+        <product :vip="vip" @add-to-cart="updateCart"></product>
+    </div>
+    <!-- Import Vue.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.16/dist/vue.js"></script>
+    <!-- Link to main JavaScript file -->
+    <script src="main.js"></script>
+</body>
+</html>

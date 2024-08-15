@@ -1,0 +1,856 @@
+{
+    "_id" : ObjectId("5d34c59d098c00453a23479d"),
+    "fsa_id" : NumberInt(525017),
+    "name" : "Black Horse",
+    "address" : {
+        "address" : "Black Horse Inn Hall Street, Penycae, Wrexham, Wrexham",
+        "city" : "Wrexham",
+        "Postcode" : "LL14 2RU",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(328166),
+        "northing" : NumberInt(345230),
+        "latitude" : 52.999551,
+        "longitude" : -3.071808
+    },
+    "local_authority" : "Wrexham"
+}
+{
+    "_id" : ObjectId("5d34c59d098c00453a2347b4"),
+    "fsa_id" : NumberInt(502620),
+    "name" : "BLACK HORSE",
+    "address" : {
+        "address" : "Black Horse Inn, 161 Iscoed Road, Hendy, Swansea",
+        "city" : "Swansea",
+        "Postcode" : "SA4 0UN",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(258628),
+        "northing" : NumberInt(203882),
+        "latitude" : 51.715798,
+        "longitude" : -4.047804
+    },
+    "local_authority" : "Carmarthenshire"
+}
+{
+    "_id" : ObjectId("5d34c59d098c00453a2347c9"),
+    "fsa_id" : NumberInt(502621),
+    "name" : "BLACK HORSE INN",
+    "address" : {
+        "address" : "Pentre-Cwrt, Llandysul, Dyfed",
+        "city" : "Llandysul",
+        "Postcode" : "SA44 5AX",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01559 362383",
+        "fax" : "01559 362590"
+    },
+    "location" : {
+        "easting" : NumberInt(238690),
+        "northing" : NumberInt(238613),
+        "latitude" : 52.022415,
+        "longitude" : -4.352401
+    },
+    "local_authority" : "Carmarthenshire"
+}
+{
+    "_id" : ObjectId("5d34c5a3098c00453a23747b"),
+    "fsa_id" : NumberInt(524166),
+    "name" : "Horse & Groom (wet sales only)",
+    "address" : {
+        "address" : "Horse And Groom Hotel, 19 High Street, Cowbridge, Vale Of Glamorgan",
+        "city" : "Cowbridge",
+        "Postcode" : "CF71 7AD",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(299641),
+        "northing" : NumberInt(174646),
+        "latitude" : 51.461859,
+        "longitude" : -3.446004
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5a3098c00453a23747f"),
+    "fsa_id" : NumberInt(511466),
+    "name" : "Horse & Groom Inn",
+    "address" : {
+        "address" : "High Street, Penydarren, Merthyr Tydfil, Mid Glamorgan",
+        "city" : "Merthyr Tydfil",
+        "Postcode" : "CF47 9HH",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01685 370039"
+    },
+    "location" : {
+        "easting" : NumberInt(306065),
+        "northing" : NumberInt(207667),
+        "latitude" : 51.759781,
+        "longitude" : -3.362423
+    },
+    "local_authority" : "Merthyr Tydfil"
+}
+{
+    "_id" : ObjectId("5d34c5a3098c00453a237483"),
+    "fsa_id" : NumberInt(515733),
+    "name" : "Horse & Jockey",
+    "address" : {
+        "address" : "Steynton, Milford Haven, Dyfed",
+        "city" : "Milford Haven",
+        "Postcode" : "SA73 1AP",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01646 692166"
+    },
+    "location" : {
+        "easting" : NumberInt(191783),
+        "northing" : NumberInt(207752),
+        "latitude" : 51.729721,
+        "longitude" : -5.016509
+    },
+    "local_authority" : "Pembrokeshire"
+}
+{
+    "_id" : ObjectId("5d34c5a3098c00453a23749d"),
+    "fsa_id" : NumberInt(517862),
+    "name" : "Horse & Jockey Inn",
+    "address" : {
+        "address" : "Wylcwm Place, Knighton, Powys",
+        "city" : "Knighton",
+        "Postcode" : "LD7 1AE",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01547 520062"
+    },
+    "location" : {
+        "easting" : NumberInt(328679),
+        "northing" : NumberInt(272306),
+        "latitude" : 52.34417,
+        "longitude" : -3.048353
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5a3098c00453a2374c2"),
+    "fsa_id" : NumberInt(525385),
+    "name" : "Horse And Jockey",
+    "address" : {
+        "address" : "Horse And Jockey Chapel Street, Ponciau, Wrexham, Wrexham",
+        "city" : "Wrexham",
+        "Postcode" : "LL14 1SD",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(329766),
+        "northing" : NumberInt(346476),
+        "latitude" : 53.010956,
+        "longitude" : -3.048244
+    },
+    "local_authority" : "Wrexham"
+}
+{
+    "_id" : ObjectId("5d34c5a3098c00453a2374f6"),
+    "fsa_id" : NumberInt(512080),
+    "name" : "Horseshoe Inn",
+    "address" : {
+        "address" : "Old Abergavenny Road, Mamhilad",
+        "city" : "Pontypool",
+        "Postcode" : "NP4 8QX",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(330061),
+        "northing" : NumberInt(201899),
+        "latitude" : 51.711436,
+        "longitude" : -3.013653
+    },
+    "local_authority" : "Torfaen"
+}
+{
+    "_id" : ObjectId("5d34c59e098c00453a23561c"),
+    "fsa_id" : NumberInt(511916),
+    "name" : "Coach & Horses",
+    "address" : {
+        "address" : "41 Cross Street, Abergavenny, Gwent",
+        "city" : "Abergavenny",
+        "Postcode" : "NP7 5ER",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01873 859411"
+    },
+    "location" : {
+        "easting" : NumberInt(330032),
+        "northing" : NumberInt(214060),
+        "latitude" : 51.820755,
+        "longitude" : -3.016526
+    },
+    "local_authority" : "Monmouthshire"
+}
+{
+    "_id" : ObjectId("5d34c59e098c00453a23561e"),
+    "fsa_id" : NumberInt(517390),
+    "name" : "Coach & Horses",
+    "address" : {
+        "address" : "CwmcRawnon Road, Llangynidr, Crickhowell, Powys",
+        "city" : "Crickhowell",
+        "Postcode" : "NP8 1LS",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01874 730245"
+    },
+    "location" : {
+        "easting" : NumberInt(315209),
+        "northing" : NumberInt(219786),
+        "latitude" : 51.870179,
+        "longitude" : -3.232941
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c59e098c00453a23561f"),
+    "fsa_id" : NumberInt(511917),
+    "name" : "Coach & Horses",
+    "address" : {
+        "address" : "Welsh Street, Chepstow, Gwent",
+        "city" : "Chepstow",
+        "Postcode" : "NP16 5LN",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01291 622626",
+        "fax" : "01291 622626",
+        "Website" : "www.coachandhorsesinn.co.uk"
+    },
+    "location" : {
+        "easting" : NumberInt(353183),
+        "northing" : NumberInt(193877),
+        "latitude" : 51.641743,
+        "longitude" : -2.677952
+    },
+    "local_authority" : "Monmouthshire"
+}
+{
+    "_id" : ObjectId("5d34c59e098c00453a235620"),
+    "fsa_id" : NumberInt(496098),
+    "name" : "Coach & Horses",
+    "address" : {
+        "address" : "Charles Street, Tredegar, Gwent",
+        "city" : "Tredegar",
+        "Postcode" : "NP22 4AE",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01495 722414"
+    },
+    "location" : {
+        "easting" : NumberInt(313865),
+        "northing" : NumberInt(210084),
+        "latitude" : 51.782763,
+        "longitude" : -3.250054
+    },
+    "local_authority" : "Blaenau Gwent"
+}
+{
+    "_id" : ObjectId("5d34c59e098c00453a23562a"),
+    "fsa_id" : NumberInt(514000),
+    "name" : "Coach & Horses",
+    "address" : {
+        "address" : "Newport Road, Castleton, Cardiff, South Glamorgan",
+        "city" : "Cardiff",
+        "Postcode" : "CF3 2UQ",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01633 680435",
+        "fax" : "01633 681143"
+    },
+    "location" : {
+        "easting" : NumberInt(325268),
+        "northing" : NumberInt(183535),
+        "latitude" : 51.54574,
+        "longitude" : -3.079086
+    },
+    "local_authority" : "Newport"
+}
+{
+    "_id" : ObjectId("5d34c59e098c00453a235652"),
+    "fsa_id" : NumberInt(515357),
+    "name" : "Coach And Horses",
+    "address" : {
+        "address" : "Coach And Horses Upper Frog Street, Tenby, Pembrokeshire",
+        "city" : "Tenby",
+        "Postcode" : "SA70 7JD",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(213313),
+        "northing" : NumberInt(200495),
+        "latitude" : 51.672131,
+        "longitude" : -4.70125
+    },
+    "local_authority" : "Pembrokeshire"
+}
+{
+    "_id" : ObjectId("5d34c5ab098c00453a2397b0"),
+    "fsa_id" : NumberInt(512345),
+    "name" : "Race Horse Inn",
+    "address" : {
+        "address" : "Waunavon, Llanelly Hill, Nr Abergavenny, Monmouthshire",
+        "city" : "Abergavenny",
+        "Postcode" : "NP7 0PU",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(321854),
+        "northing" : NumberInt(211186),
+        "latitude" : 51.793844,
+        "longitude" : -3.134503
+    },
+    "local_authority" : "Monmouthshire"
+}
+{
+    "_id" : ObjectId("5d34c5ac098c00453a23a299"),
+    "fsa_id" : NumberInt(497481),
+    "name" : "Seahorse Inn",
+    "address" : {
+        "address" : "17 South Road, Porthcawl, Mid Glamorgan",
+        "city" : "Porthcawl",
+        "Postcode" : "CF36 3DH",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01656 782885"
+    },
+    "location" : {
+        "easting" : NumberInt(281862),
+        "northing" : NumberInt(177235),
+        "latitude" : 51.481686,
+        "longitude" : -3.702677
+    },
+    "local_authority" : "Bridgend"
+}
+{
+    "_id" : ObjectId("5d34c5bd098c00453a23bc91"),
+    "fsa_id" : NumberInt(512488),
+    "name" : "The Coach & Horses",
+    "address" : {
+        "address" : "Caerwent Road, Caerwent, Caldicot",
+        "city" : "Caldicot",
+        "Postcode" : "NP26 5AX",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(347064),
+        "northing" : NumberInt(190494),
+        "latitude" : 51.610775,
+        "longitude" : -2.765858
+    },
+    "local_authority" : "Monmouthshire"
+}
+{
+    "_id" : ObjectId("5d34c5c6098c00453a23cd27"),
+    "fsa_id" : NumberInt(496483),
+    "name" : "The Hobby Horse",
+    "address" : {
+        "address" : "30 Greenland Road, Brynmawr, Ebbw Vale, Gwent",
+        "city" : "Ebbw Vale",
+        "Postcode" : "NP23 4DT",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01495 310996"
+    },
+    "location" : {
+        "easting" : NumberInt(319404),
+        "northing" : NumberInt(211742),
+        "latitude" : 51.798493,
+        "longitude" : -3.170149
+    },
+    "local_authority" : "Blaenau Gwent"
+}
+{
+    "_id" : ObjectId("5d34c5c6098c00453a23cdcd"),
+    "fsa_id" : NumberInt(524736),
+    "name" : "The Horse & Jockey",
+    "address" : {
+        "address" : "Chapel Terrace, Twyn-yr-Odyn, Cardiff, South Glamorgan",
+        "city" : "Cardiff",
+        "Postcode" : "CF5 6BG",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "029 20593396"
+    },
+    "location" : {
+        "easting" : NumberInt(311626),
+        "northing" : NumberInt(173814),
+        "latitude" : 51.45638,
+        "longitude" : -3.273327
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5c6098c00453a23cdfd"),
+    "fsa_id" : NumberInt(524737),
+    "name" : "The Horseshoe Inn",
+    "address" : {
+        "address" : "Marcross, Llantwit Major, South Glamorgan",
+        "city" : "Llantwit Major",
+        "Postcode" : "CF61 1ZG",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01656 890568"
+    },
+    "location" : {
+        "easting" : NumberInt(292426),
+        "northing" : NumberInt(169274),
+        "latitude" : 51.412247,
+        "longitude" : -3.548187
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5c6098c00453a23cdff"),
+    "fsa_id" : NumberInt(518846),
+    "name" : "The Horseshoe Inn",
+    "address" : {
+        "address" : "Llangattock, Crickhowell, Powys",
+        "city" : "Crickhowell",
+        "Postcode" : "NP8 1PA",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01873 810393"
+    },
+    "location" : {
+        "easting" : NumberInt(321154),
+        "northing" : NumberInt(217786),
+        "latitude" : 51.853083,
+        "longitude" : -3.146156
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5cc098c00453a23d9f1"),
+    "fsa_id" : NumberInt(518901),
+    "name" : "The Old White Horse Inn",
+    "address" : {
+        "address" : "12 High Street, Pont Nedd Fechan, Neath, West Glamorgan",
+        "city" : "Neath",
+        "Postcode" : "SA11 5NP",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01639 721219"
+    },
+    "location" : {
+        "easting" : NumberInt(290152),
+        "northing" : NumberInt(207665),
+        "latitude" : 51.756856,
+        "longitude" : -3.592896
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5d0098c00453a23e566"),
+    "fsa_id" : NumberInt(505250),
+    "name" : "The Seahorse Inn",
+    "address" : {
+        "address" : "Sea Horse Inn Uplands Square, New Quay, Ceredigion",
+        "city" : "New Quay",
+        "Postcode" : "SA45 9QH",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(238862),
+        "northing" : NumberInt(259686),
+        "latitude" : 52.211772,
+        "longitude" : -4.359879
+    },
+    "local_authority" : "Ceredigion"
+}
+{
+    "_id" : ObjectId("5d34c5d1098c00453a23ec09"),
+    "fsa_id" : NumberInt(518950),
+    "name" : "The Three Horse Shoes",
+    "address" : {
+        "address" : "Trecastle, Brecon, Powys",
+        "city" : "Brecon",
+        "Postcode" : "LD3 8UP",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01874 638057"
+    },
+    "location" : {
+        "easting" : NumberInt(288049),
+        "northing" : NumberInt(229186),
+        "latitude" : 51.949871,
+        "longitude" : -3.63033
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5d1098c00453a23ec0e"),
+    "fsa_id" : NumberInt(524791),
+    "name" : "The Three Horseshoes",
+    "address" : {
+        "address" : "Three Horseshoes Inn, Peterston Super Ely, Vale Of Glamorgan",
+        "city" : "Cardiff",
+        "Postcode" : "CF5 6LH",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(308277),
+        "northing" : NumberInt(176375),
+        "latitude" : 51.478868,
+        "longitude" : -3.322194
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f55d"),
+    "fsa_id" : NumberInt(502183),
+    "name" : "Three Horse Shoes",
+    "address" : {
+        "address" : "Three Horseshoes Merthyr Road, Whitchurch, Cardiff, Cardiff",
+        "city" : "Cardiff",
+        "Postcode" : "CF14 1DL",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(316701),
+        "northing" : NumberInt(179491),
+        "latitude" : 51.508185,
+        "longitude" : -3.201643
+    },
+    "local_authority" : "Cardiff"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f55e"),
+    "fsa_id" : NumberInt(520909),
+    "name" : "Three Horse Shoes",
+    "address" : {
+        "address" : "Gilfach Road, Tonyrefail, Porth, Mid Glamorgan",
+        "city" : "Porth",
+        "Postcode" : "CF39 8HE",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01443 670231"
+    },
+    "location" : {
+        "easting" : NumberInt(300735),
+        "northing" : NumberInt(188207),
+        "latitude" : 51.583938,
+        "longitude" : -3.434087
+    },
+    "local_authority" : "Rhondda Cynon Taf"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f566"),
+    "fsa_id" : NumberInt(518978),
+    "name" : "Three Horse Shoes",
+    "address" : {
+        "address" : "Velindre, Brecon, Powys",
+        "city" : "Brecon",
+        "Postcode" : "LD3 0SU",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(318492),
+        "northing" : NumberInt(236649),
+        "latitude" : 52.022248,
+        "longitude" : -3.189273
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f568"),
+    "fsa_id" : NumberInt(504022),
+    "name" : "THREE HORSE SHOES",
+    "address" : {
+        "address" : "Three Horseshoes, Cenarth, Newcastle Emlyn",
+        "city" : "Newcastle Emlyn",
+        "Postcode" : "SA38 9JL",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(226871),
+        "northing" : NumberInt(241496),
+        "latitude" : 52.044746,
+        "longitude" : -4.525941
+    },
+    "local_authority" : "Carmarthenshire"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f56c"),
+    "fsa_id" : NumberInt(518979),
+    "name" : "Three Horse Shoes Inn",
+    "address" : {
+        "address" : "Groesffordd, Brecon, Powys",
+        "city" : "Brecon",
+        "Postcode" : "LD3 7SN",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(301994),
+        "northing" : NumberInt(270852),
+        "latitude" : 52.326981,
+        "longitude" : -3.439535
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f57a"),
+    "fsa_id" : NumberInt(499072),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "39 High Street, Pentwynmawr",
+        "city" : "Newport",
+        "Postcode" : "NP11 4HN",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(319486),
+        "northing" : NumberInt(196159),
+        "latitude" : 51.658426,
+        "longitude" : -3.165351
+    },
+    "local_authority" : "Caerphilly"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f57b"),
+    "fsa_id" : NumberInt(512575),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "21 Drybridge Street, Monmouth, Monmouthshire",
+        "city" : "Monmouth",
+        "Postcode" : "NP25 3AD",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(350914),
+        "northing" : NumberInt(214485),
+        "latitude" : 51.826823,
+        "longitude" : -2.713653
+    },
+    "local_authority" : "Monmouthshire"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f582"),
+    "fsa_id" : NumberInt(497724),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "Queen Street, Bridgend, Mid Glamorgan",
+        "city" : "Bridgend",
+        "Postcode" : "CF31 1HU",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01656 652456"
+    },
+    "location" : {
+        "easting" : NumberInt(290549),
+        "northing" : NumberInt(179698),
+        "latitude" : 51.505581,
+        "longitude" : -3.578395
+    },
+    "local_authority" : "Bridgend"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f585"),
+    "fsa_id" : NumberInt(524805),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "Three Horseshoes Inn, Moulton, Vale Of Glamorgan",
+        "city" : "Barry",
+        "Postcode" : "CF62 3AB",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(307296),
+        "northing" : NumberInt(170157),
+        "latitude" : 51.422805,
+        "longitude" : -3.334684
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f58e"),
+    "fsa_id" : NumberInt(514949),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "Three Horseshoes 45 Pillmawr Road Newport South Wales",
+        "city" : "Newport",
+        "Postcode" : "NP20 6WG",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(330709),
+        "northing" : NumberInt(190710),
+        "latitude" : 51.610938,
+        "longitude" : -3.002054
+    },
+    "local_authority" : "Newport"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f595"),
+    "fsa_id" : NumberInt(524806),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "Three Horseshoes, 1 Station Road, Dinas Powys, Vale Of Glamorgan",
+        "city" : "Dinas Powys",
+        "Postcode" : "CF64 4DE",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(315326),
+        "northing" : NumberInt(171229),
+        "latitude" : 51.433709,
+        "longitude" : -3.219468
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f596"),
+    "fsa_id" : NumberInt(524804),
+    "name" : "Three Horseshoes",
+    "address" : {
+        "address" : "The Three Horseshoes The Square, St Athan, Vale Of Glamorgan",
+        "city" : "Barry",
+        "Postcode" : "CF62 4PF",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(301634),
+        "northing" : NumberInt(167993),
+        "latitude" : 51.402409,
+        "longitude" : -3.415476
+    },
+    "local_authority" : "Vale of Glamorgan"
+}
+{
+    "_id" : ObjectId("5d34c5d3098c00453a23f598"),
+    "fsa_id" : NumberInt(518980),
+    "name" : "Three Horseshoes Inn",
+    "address" : {
+        "address" : "47 Orchard Street, Brecon, Powys",
+        "city" : "Brecon",
+        "Postcode" : "LD3 8AL",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01874 622874"
+    },
+    "location" : {
+        "easting" : NumberInt(303984),
+        "northing" : NumberInt(228427),
+        "latitude" : 51.946024,
+        "longitude" : -3.398339
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5d4098c00453a240087"),
+    "fsa_id" : NumberInt(506924),
+    "name" : "White Horse / Penllan",
+    "address" : {
+        "address" : "Capel Garmon, Llanrwst",
+        "city" : "Llanrwst",
+        "Postcode" : "LL26 0RW",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(281572),
+        "northing" : NumberInt(355394),
+        "latitude" : 53.082592,
+        "longitude" : -3.769528
+    },
+    "local_authority" : "Conwy"
+}
+{
+    "_id" : ObjectId("5d34c5d4098c00453a240089"),
+    "fsa_id" : NumberInt(525933),
+    "name" : "White Horse Hotel",
+    "address" : {
+        "address" : "White Horse, 21 High Street, Overton, Wrexham, Wrexham",
+        "city" : "Wrexham",
+        "Postcode" : "LL13 0DT",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(337319),
+        "northing" : NumberInt(341904),
+        "latitude" : 52.97081,
+        "longitude" : -2.9348
+    },
+    "local_authority" : "Wrexham"
+}
+{
+    "_id" : ObjectId("5d34c5d4098c00453a24008a"),
+    "fsa_id" : NumberInt(519130),
+    "name" : "White Horse Hotel",
+    "address" : {
+        "address" : "13 High Street, Builth Wells, Powys",
+        "city" : "Builth Wells",
+        "Postcode" : "LD2 3DN",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(304197),
+        "northing" : NumberInt(251035),
+        "latitude" : 52.14926,
+        "longitude" : -3.401586
+    },
+    "local_authority" : "Powys"
+}
+{
+    "_id" : ObjectId("5d34c5d4098c00453a240099"),
+    "fsa_id" : NumberInt(516859),
+    "name" : "White Horse Inn",
+    "address" : {
+        "address" : "Station Road, Kilgetty, Dyfed",
+        "city" : "Kilgetty",
+        "Postcode" : "SA68 0XR",
+        "Region" : "Wales"
+    },
+    "contact" : {
+        "phone" : "01834 812818"
+    },
+    "location" : {
+        "easting" : NumberInt(212625),
+        "northing" : NumberInt(207134),
+        "latitude" : 51.731518,
+        "longitude" : -4.71477
+    },
+    "local_authority" : "Pembrokeshire"
+}
+{
+    "_id" : ObjectId("5d34c5d4098c00453a2400a1"),
+    "fsa_id" : NumberInt(497805),
+    "name" : "White Horse Inn",
+    "address" : {
+        "address" : "The White Horse Inn Main Road, Coychurch, Bridgend, Bridgend",
+        "city" : "Bridgend",
+        "Postcode" : "CF35 5HD",
+        "Region" : "Wales"
+    },
+    "location" : {
+        "easting" : NumberInt(293898),
+        "northing" : NumberInt(179699),
+        "latitude" : 51.506229,
+        "longitude" : -3.530175
+    },
+    "local_authority" : "Bridgend"
+}

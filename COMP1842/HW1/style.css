@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#app {
+    width: 80%;
+    margin: 20px auto;
+    background: coral;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cart {
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    padding: 5px 20px;
+    border: 1px solid limegreen;
+    background-color: cyan;
+    border-radius: 4px;
+}
+
+.product-section {
+    border-bottom: 2px solid #ddd;
+    padding: 20px 0;
+    clear: both;
+}
+
+.product-info h1 {
+    font-size: 1.5em;
+    margin: 0;
+    color: #333;
+}
+
+.product-info h2 {
+    font-size: 1.2em;
+    color: #666;
+    margin: 0;
+}
+
+.product-image {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.product-image img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.in-stock {
+    color: seagreen;
+}
+
+.out-of-stock {
+    color: red;
+}
+
+button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 0;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #555;
+}
+
+button:disabled {
+    background: silver;
+    cursor: not-allowed;
+}
+
+.color-box {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    cursor: pointer;
+    border: 2px solid salmon;
+    border-radius: 4px;
+    transition: border 0.3s ease;
+}
+
+.color-box:hover {
+    border: 2px solid #333;
+}
+
+.buttons {
+    margin: 20px 0;
+}
+
+.review-form {
+    margin: 20px 0;
+}
+
+.review-form p {
+    margin: 0 0 10px;
+}
+
+.review-form label {
+    display: block;
+    font-weight: bold;
+}
+
+.review-form input, .review-form textarea, .review-form select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px solid gray;
+    background-color: #c7c4bf;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.review-form input[type="submit"] {
+    background: #333;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+}
+
+.review-form input[type="submit"]:hover {
+    background: #555;
+}
+
+.tab {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: #eee;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+}
+
+.tab:hover {
+    background: #ddd;
+}
+
+.activeTab {
+    background: #333;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: tan;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
+ul li p {
+    margin: 0;
+}

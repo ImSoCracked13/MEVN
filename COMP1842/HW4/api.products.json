@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "66a1fd7387facb0437c19eea"
+  },
+  "name": "AK-47",
+  "price": 2700,
+  "description": "for the motherland!"
+},
+{
+  "_id": {
+    "$oid": "66a1fe5687facb0437c19eec"
+  },
+  "name": "M4A1-S",
+  "price": 2900,
+  "description": "SNEAKY-BEAKY LIKE!"
+}]

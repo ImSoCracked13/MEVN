@@ -1,0 +1,32 @@
+[
+    {
+        "gun" : "AK-47",
+        "skin" : "Gold Arabesque",
+        "price" : 3000
+    },
+    {
+        "gun" : "M4A4",
+        "skin" : "Temukau",
+        "price" : 155
+    },
+    {
+        "gun": "AWP",
+        "skin": "Wildfire",
+        "price" : 110
+    },
+    {
+        "gun": "Desert Eagle",
+        "skin": "Printstream",
+        "price" : 80
+    },
+    {
+        "gun": "MP7",
+        "skin": "Fade",
+        "price" : 40
+    },
+    {
+        "gun": "Desert Eagle",
+        "skin": "Bloodsport",
+        "price" : 12
+    }
+]
