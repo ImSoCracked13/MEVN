@@ -22,6 +22,5 @@ const gunSkinSchema = mongoose.Schema(
         versionKey: false
     }
 )
-const gunSkinModel = mongoose.model('gunSkins', gunSkinSchema) //the name must be same with collection in db
-//vocabs: collection (table) name
+const gunSkinModel = mongoose.model('gunSkins', gunSkinSchema)
 module.exports = gunSkinModel
